@@ -1,0 +1,35 @@
+Thanks to everyone who came out last night for Round 2! I had a great time meeting some new faces and seeing what everyone is up to! There's something great about each of the projects presented last night, and hopefully they become even greater thanks to our community feedback!
+
+Frank Jania: http://labs.digitalanalog.net/twitteryear/cloud.html
+             http://labs.digitalanalog.net/twitteryear/
+             http://github.com/fjania/gviz-wordcloud
+
+Justin Lilly: http://permachart.appspot.com
+              http://github.com/justinlilly/permachart
+
+Zoe FraBla: http://www.binaryspark.com/current/
+            http://www.binaryspark.com/code.html <-- other stuff!
+
+Jon Beluch: I think it was www.mathalarm.com (but not exactly live just yet)
+            http://github.com/jbeluch <-- maybe follow here?
+
+James Socol: CSP background: https://wiki.mozilla.org/Security/CSP
+             Django implementation: http://github.com/jsocol/django-csp
+             Asteroids!: http://github.com/jsocol/asteroids
+
+Scott Rubin: http://github.com/Apreche/Presentoh
+
+Andrey Fedorov: http://github.com/andreyf/hn-extended
+                (Is there an installable via http://chrome.google.com/extensions?)
+
+Feel free to correct the above or add more!
+
+I'd love to get feedback so we can make this whole thing better, so please leave some feedback (do it Hack and Tell style--positive, negative, whatever). Is the format OK? Is there anything missing? Are people hungry and want pizza? Presenters: are the questions/comments helpful? Is the conversation after better? Let me know! We'll iterate!
+
+Finally, we'll probably do another one of these in October, but I'm going to try something new--I'll schedule the Meetup say, a week before, instead of a month. This way more people will better know their schedules. That said, we need people like the fine folks who presented last night to show off what they're doing, so keep building stuff!
+
+Thanks again everyone!
+
+Andrew Gwozdziewycz
+@apgwoz
+http://apgwoz.com

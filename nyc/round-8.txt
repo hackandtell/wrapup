@@ -1,0 +1,71 @@
+Hey All,
+
+Thanks for coming out to Hack and Tell last Monday night! I had a
+blast, and I hope you all did as well! This may have been the biggest
+Hack and Tell yet, and certainly one of the best so far!
+
+Again, thanks to General Assembly (http://generalassemb.ly) for
+graciously hosting, and to Etsy (http://etsy.com) for feeding us.
+
+Here's what was presented, please correct me if I'm wrong, or
+fill in missing details!
+
+  Doug Tangren - Android clock with images as numbers (source will be
+     available I believe? on https://github.com/softprops) 
+
+  Ryan Gravener - Bang: Android western shootout game over Bluetooth 
+     (with cool Bluetooth pairing mechanism based on QR Codes!) 
+     source: https://github.com/snooplsm/bang
+  
+  Nathan Hamblen - All-Aboard: Streaming API for real time departure 
+     data (NJ Transit only for now)
+     source: https://github.com/n8han/All-Aboard
+
+  Cory Forsyth - Boggle hacks (heatmap, etc): 
+     http://bantic.github.com/boggle-heat-map/
+     source: https://github.com/bantic/boggle-heat-map
+
+  Kenny Katzgrau - divvy a log parsing and monitoring tool 
+     source: https://github.com/katzgrau/divvy
+
+     (Editors Note: I've added cowsay support, but my Perl is rusty:
+                    http://github.com/apgwoz/divvy)
+
+  Frank Denbow - http://PriceCrisis.com a pricing game making use of
+     Sinatra, Raphael.js, the Zappos.com API. Also available to play
+     over the phone!
+     source: unavailable or location not known.
+
+  Alexander Sicular - Hacker News/NY Times with social data 
+     (http://hnfluence.com)/(http://influentialtimes.com/)
+     source: unavailable or location not known.
+
+  Jesse Chan-Norris - Cowsay for the web + cowsay-py
+     http://cowsay.morecode.org
+     source (cowsay-py): https://github.com/jcn/cowsay-py
+
+  Simon Murtha-Smith - Locker: my social data collector and archiver
+     source: https://github.com/quartzjer/Locker
+
+  Bjorn Roche - Mantis for Indaba Music 
+     http://www.indabamusic.com/landing/mantis
+     source: unavailable
+
+     (Editors Note: If you end up open sourcing the tool kit, let us
+      know!)
+
+
+As a side note, you can always find some of us (and some guests from
+other parts of the country) chatting in #hackandtell on 
+irc.freenode.net, and find us on Twitter at @hackandtell.
+
+See you next time!
+
+Happy hacking,
+
+Andrew
+@apgwoz
+
+
+
+
