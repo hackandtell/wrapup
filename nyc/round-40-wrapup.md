@@ -79,7 +79,7 @@ We decided to experiment with turning off the $5 donation this time. This had th
 
 A lot of the folks who didn't show up really did take the time to change their RSVPs to no a day in advance, which was responsible and great! But it was really too late to allow more people in off the waitlist, which is a bummer.
 
-We're going to try continuing without a required donation next time, but we'rre gonna ask you to try extra hard to please update your RSVPs earlier if you realize you're not going to be able to make it, in order to make room for someone who really wants to attend. Thanks!
+We're going to try continuing without a required donation next time, but we're gonna ask you to try extra hard to please update your RSVPs earlier if you realize you're not going to be able to make it, in order to make room for someone who really wants to attend. Thanks!
 
 
 ### Round 41
