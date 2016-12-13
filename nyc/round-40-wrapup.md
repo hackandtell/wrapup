@@ -8,7 +8,7 @@ And a huge thank you to [Blue Apron](https://www.blueapron.com/) for hosting us 
 
 ## The Hacks
 
-### Eric Wood - 
+### Eric Wood - Minilogue Patches
 
 Eric explained how he uses web MIDI to reprogram hardware synthesizers, and taught us about how people can share patches to program their synthesizers. Folks have been sharing photos of the knobs and dials and such on a Facebook group, but he figured he could find a better way to help share the synth hacks!
 
