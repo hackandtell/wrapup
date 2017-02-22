@@ -77,6 +77,6 @@ With Aditya and Danielle traveling this time, we had guest hosts Michelle Steige
 
 ### Mark your calendars!
 
-Our next meetup, Round 42, will take place on April 20, 2017 at Seamless/Grubhub.
+Our next event, [Round 42](https://www.meetup.com/hack-and-tell/events/237149625/), will take place on April 20, 2017 at Seamless/Grubhub.
 
 Signups for presenters are open! RSVPs for attendees will open two weeks before the event.
